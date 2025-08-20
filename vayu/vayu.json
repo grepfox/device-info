@@ -4,7 +4,7 @@
   "status": "Active",
   "ota-branch": "full-signed",
   "ota-branch-vanilla": "vanilla-signed",
-  "known_issues": "unholy",
+  "known_issues": "unholy, unfaithful brick legend",
   "group": "https://t.me/grepfox_chat",
   "image": "https://wiki.lineageos.org/images/devices/vayu.png"
 }
