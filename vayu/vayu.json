@@ -6,5 +6,16 @@
   "ota-branch-vanilla": "vanilla-signed",
   "known_issues": "unholy, unfaithful brick legend",
   "group": "https://t.me/grepfox_chat",
-  "image": "https://wiki.lineageos.org/images/devices/vayu.png"
+  "image": "https://wiki.lineageos.org/images/devices/vayu.png",
+  "showspecs": true,
+  "specs": {
+    "Display": "6.67-inch FHD+ IPS LCD, 120Hz",
+    "Processor": "Qualcomm Snapdragon 860",
+    "RAM": "6/8 GB LPDDR4X",
+    "Storage": "128/256 GB UFS 3.1",
+    "Battery": "5160 mAh, 33W fast charging",
+    "Rear Camera": "48MP + 8MP + 2MP + 2MP",
+    "Front Camera": "20MP",
+    "OS": "Android 14 (YAAP)"
+  }
 }
